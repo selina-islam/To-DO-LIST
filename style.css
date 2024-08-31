@@ -1,0 +1,8 @@
+li{
+display: flex;
+justify-content: space-around;
+align-items: center;
+background-color: rgb(200, 133, 133) ;
+margin-top: 6px;
+border-radius: 9px;
+}
